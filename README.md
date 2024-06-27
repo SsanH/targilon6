@@ -3,4 +3,4 @@
 https://github.com/SsanH/targilon6
 
 
-![Image 1](tg6_1.png)
+![Image 1](tg6/1.png)
